@@ -1,5 +1,7 @@
 # Lifecycle
 
+Esta app está enfocada en explicar todos los pasos del ciclo de vida de un componente.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 
 ## Development server
